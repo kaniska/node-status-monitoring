@@ -1,0 +1,17 @@
+{
+  "mongo": {
+    "hostname": "localhost",
+    "port": 27017,
+    "username": "",
+    "password": "",
+    "db": "cdaas_dev"
+  },
+  "redis": {
+	    "hostname": "localhost",
+	    "port": 6379
+	  },
+  "server": {
+    "hostname": "localhost",
+    "port": 3002
+  }
+}
